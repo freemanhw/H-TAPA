@@ -1,0 +1,28 @@
+ESGS              
+1 99999U 22000A   22244.00000000  .00000000  00000-0  50000-4 0  9992
+2 99999  10.0000 000.0000 0010000  90.0000 000.0000 15.05535302364707
+
+########################################################################################################################
+# Version Information
+
+    This .tle file defines the specific orbit used for the ADCS performance analysis.
+
+    Date:       2019-09-10
+    Author:     H. Woo
+    Project:    ESGS
+    Version:    v10
+    Milestone:  SRR / SDR / ESDDR
+
+    Reference Documents:
+        - Concept of Operation Rev 3.0A
+
+    Change Log:
+        - Edited Men Motion derivatives to zero, for long-term simulations (2019-09-10)
+        - Version information added (2020-01-28)
+
+    Note:
+        - This .tle file is used for all simulation results until the date 2020-01-27.
+        - Reference: Inclination 10 deg, Altitude 550 km
+
+########################################################################################################################
+
